@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StudentProfile
+comment1.params=image\ fn\ ln
+comment1.target=StudentProfile(processing.core.PImage,\ java.lang.String,\ java.lang.String)
+comment2.params=app
+comment2.target=void\ draw(processing.core.PApplet)
+comment3.params=x
+comment3.target=void\ setX(int)
+comment4.params=y
+comment4.target=void\ setY(int)
+numComments=5

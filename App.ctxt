@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=App
+comment0.text=\n\ Creates\ the\ application\ full\ of\ StudentProfile\ objects.\n\n\ @author\ demc\n\ @version\ 6/30/2017\n
+comment1.params=
+comment1.target=void\ settings()
+comment2.params=
+comment2.target=void\ setup()
+comment3.params=
+comment3.target=void\ draw()
+numComments=4
