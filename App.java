@@ -20,7 +20,7 @@ public class App extends PApplet
         profiles = new StudentProfile[20];
         profiles[0] = new StudentProfile(loadImage("dmcmillen.jpeg"), "Derrick", "McMillen");
         profiles[1] = new StudentProfile(loadImage("oscar.png"), "Oscar", "the Grouch");
-        profiles[2] = new StudentProfile(loadImage("MCMILLEN.jpg"), "The ", "Toddler");
+        profiles[2] = new StudentProfile(loadImage("USERNAME.jpg"), "The ", "Toddler");
 
         //
         // Add your StudentProfile object here.
